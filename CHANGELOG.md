@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Planned for v1.0 (Formal Publication)
 - Complete scenarios and empirical tests section with full methodologies
 - Add comprehensive references and citations
+- Add section and subsection numbering throughout document
 - LaTeX version for academic journal submission
 - Incorporate community feedback from prerelease
 - Minor refinements based on initial feedback
