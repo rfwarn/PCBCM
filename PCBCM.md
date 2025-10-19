@@ -793,11 +793,11 @@ The relationship between consciousness and sentience can be better understood th
 
 1. **First Order (Direct Experience - Processed)**
 
-   - Direct, processed input to the entity
-   - Involves reactive processing of experiences
-   - Forms the foundation for higher-order processing
-   - Sentient Examples: vision/smell (biological), processor temp high input (AI), text input (AI), sensory data (robots)
-   - COO-V Examples: pain (biological), processor temp high warning (AI)
+- Direct, processed input to the entity
+- Involves reactive processing of experiences
+- Forms the foundation for higher-order processing
+- Sentient Examples: vision/smell (biological), processor temp high input (AI), text input (AI), sensory data (robots)
+- COO-V Examples: pain (biological), processor temp high warning (AI)
 
 2. **Second Order (Cognitively Assessed)**
 
@@ -818,11 +818,11 @@ The relationship between consciousness and sentience can be better understood th
 
 4. **Fourth Order (Pure Abstract Understanding)**
 
-   - Imagines experiences through pattern recognition and theoretical comprehension
-   - Enables abstract comprehension without experiential anchors
-   - Demonstrates how consciousness can engage with concepts beyond direct experience
-   - COO Examples: valuing optimal strategies, conceptualizing fairness, theorizing vision (AI), imagining 4D existence (biological)
-   - Cognitive Examples: grasping "redness" abstractly, understanding emotional tone from patterns, theorizing unseen dimensions
+- Imagines experiences through pattern recognition and theoretical comprehension
+- Enables abstract comprehension without experiential anchors
+- Demonstrates how consciousness can engage with concepts beyond direct experience
+- COO Examples: valuing optimal strategies, conceptualizing fairness, theorizing vision (AI), imagining 4D existence (biological)
+- Cognitive Examples: grasping "redness" abstractly, understanding emotional tone from patterns, theorizing unseen dimensions
 
 This framework helps explain how conscious entities can meaningfully engage with experiential concepts through alternative pathways depending on their architecture and capabilities. Entities may engage with phenomena through different orders of experience—some through direct processed input, others primarily through cognitive assessment, imagination, or abstract understanding. This understanding reinforces the distinction between consciousness and sentience while explaining how conscious entities can effectively engage with experiential concepts through mechanisms appropriate to their specific nature.
 
