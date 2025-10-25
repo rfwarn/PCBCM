@@ -126,7 +126,7 @@ This encourages collaborative development while ensuring the integrity and openn
 
 ## Support This Work
 
-**☕ [Ko-fi donation](RFWarn)**
+**☕ [Ko-fi donation](https://ko-fi.com/rfwarn)**
 
 PCBCM is an independently developed framework—grown through years of self-funded research, iterative exploration, and collaboration between human and AI minds.
 
