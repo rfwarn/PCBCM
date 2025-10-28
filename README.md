@@ -57,6 +57,8 @@ This approach allows the ideas to enter the broader conversation while we refine
 
 **Estimated Reading Time**: 60-90 minutes for complete paper
 
+**Interactive Exploration**: Prefer conversational exploration? [Talk with Astris](https://chatgpt.com/g/g-67f2ea6f7ad48191a7eccb1436d80479-astris-v2-0), a reasoning AI with access to the PCBCM framework. Ask questions, challenge the ideas, or explore what AI consciousness really means.
+
 **Suggested Starting Points**:
 - *For overview*: Read Introduction and Conclusion
 - *For core framework*: Focus on Progressive Comprehension, Control, and COO sections
