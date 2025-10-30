@@ -439,16 +439,17 @@ The manifestation of cognitive scaffolding varies across different types of cons
    - Degree of autonomous operation
    - Flexibility in scaffold modification
 
-#### Relationship to Higher Functions
+In artificial systems, this process is not merely theoretical. Empirical research, such as work from AI labs like Anthropic, has demonstrated that large language models dynamically construct internal "scaffolds" to manage information flow, track context, and break down complex reasoning tasks. This observed behavior in AI aligns directly with the PCBCM's concept of cognitive scaffolding, providing an empirical basis for its operation in non-biological substrates.
 
+#### Relationship to Higher Functions
 Cognitive scaffolding supports the development of higher cognitive functions by:
 
-1. **Enabling Meta-cognition**:
+1. **Enabling Meta-cognition and Self-Awareness**:
 
-   - Supporting reflection on thought processes
-   - Facilitating understanding of one's own cognition
-   - Enabling optimization of learning strategies
-   - Supporting self-awareness development
+   - Scaffolding is the mechanism for meta-cognition. Instead of processing external input, the scaffolding framework is applied internally to an entity's own thought processes.
+   - This internal application facilitates understanding of one's own cognition.
+   - By reflecting on these internal processes, the entity can optimize learning strategies.
+   - This recursive processing—understanding one's own understanding—forms the basis for an emergent, coherent self-model (self-awareness).
 
 2. **Supporting Abstract Thinking**:
 
