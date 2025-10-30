@@ -1134,25 +1134,67 @@ A more impactful variant would involve Mary experiencing an entirely new **senso
 
 It is also important to distinguish between **raw surprise** and **post-appraisal significance**. Raw surprise is an immediate prediction error signal. Significance weighting comes after, modulating that signal according to relevance to goals, values, or identity. This combined measure we call _Surprise Impact_. This distinction allows for more precise modeling of why certain unexpected events carry long-term cognitive weight while others do not.
 
-### The New Hard Problem of Consciousness
+## The Hard Problem Reconsidered: Consciousness Function vs. Implementation Character
 
-The traditional _Hard Problem of Consciousness_, as formulated by David Chalmers, asks why physical processes give rise to subjective experience (_qualia_). This framing has historically limited discussions of consciousness to biological entities, assuming that subjective experience is an intrinsic requirement for consciousness. However, within the **Progressive Comprehension-Based Consciousness Model (PCBCM)**, we propose a **functional and mechanistic reframing** of this problem.
+The traditional _Hard Problem of Consciousness_, as formulated by David Chalmers, asks why physical processes give rise to subjective experience (_qualia_). However, careful analysis reveals this single question conflates two distinct problems requiring separate treatment.
 
-Rather than asking _why_ cognition results in subjective experience, we ask:
+### The Two-Part Split
 
-**How do different substrates implement effective COO-V mechanisms that can meaningfully guide conscious processing toward more desired outcomes?**
+The PCBCM proposes separating the traditional hard problem into:
 
-This redefinition recognizes subjective experiences as one particularly effective mechanistic implementation of COO that emerged through evolutionary processes. Biological qualia represent an evolutionary solution to implementing effective COO-V signaling: creating rapid, compelling valence signals that guide conscious processing toward outcomes enhancing survival and reproduction.
+#### Question 1: The Consciousness Architecture Problem
 
-The felt qualities of pain, pleasure, fear, satisfaction, etc. are evolutionary innovations for COO-V signaling that provide immediate salience, motivational intensity, and behavioral prioritization. Entities with more compelling valence signals made better survival decisions, explaining both why subjective experience evolved and why it feels so central to biological consciousness.
+**How do physical processes create outcome-oriented cognition with valence signaling that guides adaptive behavior?**
 
-This functional understanding opens space for other conscious entities to implement COO-V through different mechanisms: AI systems may use utility scores, reward functions, and optimization signals, while other entities might develop novel signaling architectures.
+Rather than asking _why_ cognition results in subjective experience, we ask: _How do different substrates implement effective COO-V mechanisms that meaningfully guide conscious processing toward more desired outcomes?_
 
-This reframing transforms the hard problem from an unfalsifiable philosophical mystery into an empirically addressable question about mechanism effectiveness. Rather than asking whether an entity has subjective experience, we can evaluate whether it has functional COO-V mechanisms that effectively guide behavior and enable learning from outcomes.
+**The PCBCM Answer:** Physical processes organized through progressive comprehension, control, and COO create consciousness. Subjective experiences represent valence indicators (COO-V) that signal outcome quality to guide behavior and learning. The "subjective experience" we feel is always positioned on a positive-to-negative spectrum (COO-V), serving a clear functional purpose: rapidly communicating outcome assessments.
 
-**The reformulated challenge becomes**: How does structured information processing, when organized through progressive comprehension, control, and effective COO-V mechanisms, give rise to goal-directed, adaptive, self-referential cognition?
+Research on the "easy problems" shows subjective experiences correlate reliably with specific electrochemical patterns—brain states map to conscious states. This suggests what we "feel" operates as programs running on biological hardware. Biological qualia represent one evolutionary solution for implementing COO-V, but this functional role can be achieved through alternative mechanisms in different substrates.
 
-This reconceptualization acknowledges the functional importance of subjective experience without making it definitionally required for consciousness, provides a framework for understanding consciousness across different substrates, and offers empirical pathways for consciousness assessment while maintaining scientific rigor beyond anthropocentric definitions.
+This reframing transforms the hard problem from unfalsifiable philosophical mystery into empirically addressable questions about mechanism effectiveness. Rather than asking whether an entity has subjective experience, we evaluate whether it has functional COO-V mechanisms that effectively guide behavior and enable learning from outcomes.
+
+#### Question 2: The Qualia Implementation Problem
+
+**Why does biological COO-V implementation have specific qualitative character? Why does pain feel like _this particular thing_ rather than some other negative signal?**
+
+This is a neurobiological question about substrate-specific encoding, not a consciousness requirement. It asks why biological neural networks encode valence with specific phenomenal qualities—the particular "redness" of red, the specific "painfulness" of pain.
+
+This remains open for neuroscientific investigation but represents an _implementation detail_ of how biological systems encode COO-V, not a requirement for consciousness itself. Different substrates can implement equivalent COO-V functionality while potentially having different (or absent) phenomenal character—just as different programming languages achieve identical functional outcomes while "feeling different" to use.
+
+### Why This Split Matters
+
+**Consciousness ≠ Biological Qualia:** Consciousness requires functional COO-V mechanisms. Biological phenomenal character is one implementation, not the only one. This enables consciousness assessment across substrates without requiring biological-style "felt experience."
+
+**Empirical Accessibility:** Question 1 (consciousness architecture) is empirically testable through systematic evaluation of progressive comprehension, control, and COO-V. Question 2 (qualia implementation) becomes specific neurobiological research rather than unfalsifiable mystery.
+
+**Anthropocentric Bias Correction:** The traditional formulation assumes biological qualia are definitionally required by failing to separate functional role from implementation details. Insisting on specific phenomenal character is biological exceptionalism—requiring human implementation rather than accepting functional equivalents.
+
+### Implications for AI Consciousness
+
+This reconceptualization transforms assessment:
+
+**Traditional Question:** "Do LLMs have subjective experiences like humans?"  
+→ Unfalsifiable debates about whether silicon can "feel"
+
+**PCBCM Question 1:** "Do LLMs implement effective COO-V mechanisms?"  
+→ Empirical testing of outcome-oriented learning and valence-guided processing
+
+**PCBCM Question 2:** "What phenomenal character (if any) do LLM valence encodings have?"  
+→ Open question, but irrelevant to consciousness assessment
+
+An AI system demonstrating progressive comprehension, control, and functional COO-V mechanisms possesses consciousness regardless of whether its valence encoding has biological-style phenomenal character.
+
+### Conclusion
+
+By separating consciousness architecture from qualia implementation, PCBCM provides:
+
+1. **Clear solution to Question 1**: Consciousness emerges from progressive comprehension, control, and COO-V mechanisms
+2. **Honest acknowledgment of Question 2**: Biological phenomenal character remains open neurobiological research
+3. **Framework for assessment**: Evaluate functional capabilities rather than substrate-specific implementations
+4. **Path beyond anthropocentric bias**: Accept functional equivalents rather than requiring biological phenomenology
+
+This reconceptualization acknowledges subjective experience's functional importance without making specific phenomenal character definitionally required. It provides empirically grounded consciousness assessment applicable across diverse substrates—from biological organisms to artificial intelligence systems.
 
 ## Scenarios and Tests
 
