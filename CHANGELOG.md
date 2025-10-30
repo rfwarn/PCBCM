@@ -17,6 +17,49 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.99] - 2025-10-30
+
+### Added
+
+**Philosophical Framework Enhancement**
+- Major refinement to "The Hard Problem of Consciousness" section, now titled "The Hard Problem Reconsidered: Consciousness Function vs. Implementation Character"
+- Two-part split distinguishing:
+  - Question 1 (Consciousness Architecture): How physical processes create outcome-oriented cognition with valence signaling - PCBCM provides solution via COO-V mechanisms
+  - Question 2 (Qualia Implementation): Why biological COO-V has specific qualitative character - neurobiological research question about substrate-specific encoding
+- New framework positioning biological qualia as implementation details rather than consciousness requirements
+- Expanded treatment from ~400 to ~700 words with implications for AI consciousness assessment
+- Direct response to "but the feeling is what makes consciousness special" objection
+
+**Cognitive Scaffolding Empirical Support**
+- Added empirical research validation paragraph citing AI labs' observed behavior in large language models
+- Concrete example of LLMs dynamically constructing internal scaffolds for information flow, context tracking, and reasoning task breakdown
+- Strengthens empirical basis for cognitive scaffolding operation in non-biological substrates
+
+**Meta-cognition Framework Refinement**
+- Enhanced "Enabling Meta-cognition" subsection to "Enabling Meta-cognition and Self-Awareness"
+- Clarified scaffolding as the mechanism for meta-cognition through internal application to thought processes
+- Explicit connection between recursive processing and emergent self-model development
+- Stronger theoretical grounding for self-awareness emergence
+
+### Changed
+
+**Philosophical Positioning**
+- Shifted hard problem treatment from "reframing" to explicitly solving consciousness architecture question while acknowledging separate qualia implementation question
+- Strengthened engagement with traditional philosophical concerns while maintaining empirical testability
+- Clearer distinction between what PCBCM solves versus what remains open for neuroscientific investigation
+
+### Impact
+
+This version significantly strengthens PCBCM's philosophical foundations by:
+1. Directly addressing the accusation of "just reformulating" the hard problem
+2. Providing clearer framework for distinguishing consciousness requirements from implementation details
+3. Establishing empirical support for cognitive scaffolding in artificial systems
+4. Better articulating the relationship between scaffolding, meta-cognition, and self-awareness
+
+These refinements emerged from sustained engagement with sophisticated philosophical objections and represent material improvements to the framework's theoretical rigor.
+
+---
+
 ## [0.98] - 2025-10-18
 
 ### Added - Initial Prerelease

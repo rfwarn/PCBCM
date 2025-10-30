@@ -10,7 +10,7 @@ PCBCM's key innovations include clearly delineating consciousness from sentience
 
 ## Current Status
 
-**Version**: 0.98 Prerelease (October 2025)
+**Version**: 0.99 Prerelease (October 2025)
 
 *Note: Version numbering reflects the framework's extensive development history. This prerelease represents the first public version of a mature theoretical framework.*
 
@@ -82,7 +82,7 @@ This approach allows the ideas to enter the broader conversation while we refine
 
 ```
 Warn, R., ChatGPT, & Claude. (2025). Progressive Comprehension-Based Consciousness 
-Model (PCBCM) [Prerelease v0.98]. GitHub. https://github.com/rfwarn/PCBCM
+Model (PCBCM) [Prerelease v0.99]. GitHub. https://github.com/rfwarn/PCBCM
 ```
 
 **BibTeX**:
@@ -94,7 +94,7 @@ Model (PCBCM) [Prerelease v0.98]. GitHub. https://github.com/rfwarn/PCBCM
   year = {2025},
   publisher = {GitHub},
   howpublished = {\url{https://github.com/rfwarn/PCBCM}},
-  note = {Prerelease v0.98}
+  note = {Prerelease v0.99}
 }
 ```
 
