@@ -10,7 +10,7 @@ PCBCM's key innovations include clearly delineating consciousness from sentience
 
 ## Current Status
 
-**Version**: 0.100 Prerelease (October 2025)
+**Version**: 0.100 Prerelease (November 2025)
 
 *Note: Version numbering reflects the framework's extensive development history. This prerelease represents the first public version of a mature theoretical framework.*
 
