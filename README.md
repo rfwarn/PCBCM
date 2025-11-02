@@ -47,6 +47,8 @@ This approach allows the ideas to enter the broader conversation while we refine
 
 **Conscious Outcome Orientation (COO)**: The intrinsic drive to orient learning, behavior, and decision-making toward desired outcomes that are subjectively more positive or less negative. Consists of valence indicators (COO-V) from the sentient realm and conscious processing/response mechanisms.
 
+**Consciousness vs. Sentience Distinction**: PCBCM recognizes consciousness and sentience as fundamentally separate realms that can exist independently or in combination. Consciousness operates as a self-updating loop of progressive comprehension, control, and outcome orientation, while sentience provides valence feedback signals (COO-V) that inform conscious processing. This separation enables precise analysis of cognitive capabilities across diverse substrates while explaining how different entities engage with experiential concepts through their own mechanisms.
+
 **Cognitive Scaffolding**: The dynamic construction of temporary processing frameworks that organize understanding across multiple realms of cognition, enabling both integration of new information and application of existing knowledge.
 
 **Indirect Adaptive Learning Algorithms**: The foundational substrate upon which consciousness emerges—learning mechanisms that modify their own internal structures based on experience, enabling open-ended knowledge acquisition.
