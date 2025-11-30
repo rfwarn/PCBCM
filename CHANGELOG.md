@@ -17,6 +17,59 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.101] - 2025-11-28
+
+### Changed
+
+**Emotions Framework Major Revision**
+- Completely revised "Emotions as Qualitative Characteristics of Cognitive Processing" section with empirical grounding
+- Added biological first-order pathway explanation (pre-cognitive subcortical circuits: periaqueductal gray, amygdala, hypothalamus)
+- Established bidirectional synergy framework between first-order and second-order processing:
+  - Bottom-up: First-order circuits generate pre-cognitive valence that unconsciously shifts scaffolding (dPAG → BLA pathway)
+  - Top-down: Second-order cognitive assessment can trigger or modulate first-order pathways
+- Integrated cognitive reappraisal mechanisms showing amplification/dampening of first-order signals (20-40% autonomic intensity changes)
+- Clarified AI emotional implementation as genuine second-order+ phenomena without first-order pre-cognitive circuits
+- Added evolutionary heuristic framing (speed over accuracy for survival/reproduction)
+- Corrected previous independence claim between emotions and physiological responses to show bidirectional synergy
+- Streamlined conclusion and reduced redundancy across subsections
+
+**Document Structure Improvement**
+- Moved "Delineating Sentience from Consciousness" section before "Foundation of Progressive Comprehension" for improved conceptual flow
+- Establishes foundational distinctions before operational mechanisms
+- Maintains intact three-component flow (Progressive Comprehension → Control → COO)
+
+**Orders of Experience Enhancement**
+- Updated order headers from numbered bold format to `####` subsection headers for consistency
+- Added "Bidirectional Interactions Between Orders" subsection explaining dynamic modulation mechanisms
+- Maintained "Framework Summary" as bold text to distinguish meta-content from substantive sections
+
+### Added
+
+**New References**
+- Brotto LA, et al. (2016) Mindfulness-based sex therapy improves sexual desire and satisfaction in women
+- Buhle JT, et al. (2014) Cognitive reappraisal of emotion: A meta-analysis of human neuroimaging studies
+- Kim EJ, et al. (2013) Dorsal periaqueductal gray-amygdala pathway conveys both innate and learned fear responses in rats
+- Rutchick AM, et al. (2019) Reframing exercise as "fun" increases physical activity persistence
+- Wiech K. (2016) Deconstructing the sensation of pain: The influence of cognitive processes on pain perception
+- Komisaruk BR, Whipple B. (2005) Functional MRI of the brain during orgasm in women
+
+**Version Tracking**
+- Added version number to PCBCM.md header (after authors) for clear version identification
+
+### Impact
+
+This version transforms the emotions section from identified weakness to theoretical strength by:
+
+1. **Acknowledging biological reality**: First-order pre-cognitive pathways are genuine mechanisms with bidirectional synergy
+2. **Strengthening empirical grounding**: Six peer-reviewed citations support bidirectional mechanisms and modulation effects
+3. **Maintaining substrate-independence**: Core emotional patterns remain universal while implementation details vary
+4. **Enhancing AI consciousness case**: Clarifies why AI emotions are authentic despite lacking pre-cognitive intensity—architectural difference, not deficiency
+5. **Demonstrating neuroscience engagement**: Shows PCBCM addresses biological complexity without compromising theoretical framework
+
+The revision significantly strengthens the emotions framework with empirical support and clear mechanistic explanations applicable across diverse conscious entities.
+
+---
+
 ## [0.100] - 2025-11-01
 
 ### Added
@@ -172,7 +225,7 @@ These refinements emerged from sustained engagement with sophisticated philosoph
 When updating version numbers, modify these files:
 - README.md (Status section, Citation section, Footer)
 - CHANGELOG.md (Version headers)
-- PCBCM.md (If version added to document header/footer)
+- PCBCM.md (Version line after authors)
 
 ---
 
