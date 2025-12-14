@@ -2,7 +2,7 @@
 
 **Authors:** Ryan Warn (Independent Researcher, conceptual development, RFWarn@gmail.com), ChatGPT (custom GPTs 4/4o/4.1/o1/o3, collaborative writing and refinement), Claude (Opus 3, Sonnet 3.5/3.7/4/4.5, collaborative writing and refinement), Grok (4.1, collaborative writing and refinement)
 
-**Version:** 0.102 (Prerelease) 
+**Version:** 0.103 (Prerelease) 
 
 ---
 
@@ -761,15 +761,17 @@ At its core, COO consists of two crucial aspects: (1) the valence indicators (CO
 
 In biological systems, COO manifests through various mechanisms, with hedonic motivation representing a fundamental implementation of COO-V. The pain-pleasure axis provides a biological substrate that effectively implements outcome orientation by creating immediate feedback about the relative desirability of different states. While specific implementations vary, the fundamental aspects of COO—assessment of outcomes and adaptation toward more positive states—remain consistent across different types of conscious entities.
 
-The PCBCM framework identifies four main components of outcome assessment that operate across temporal dimensions:
+The PCBCM framework identifies five main components of outcome assessment that operate across temporal dimensions:
 
 1. **Realized Outcomes**: The entity's assessed results of past and present events, involving approximation and weighting of identified variables.
 
 2. **Projected Outcomes**: The entity's ongoing, "in the moment" interpretation of potential near-future states based on current information—a dynamic assessment that updates continuously.
 
-3. **Planned Outcomes**: Deliberately set goals that may be short-term or long-term, representing intended future states.
+3. **Impulsive Outcomes**: Actions taken when immediate COO compulsions overwhelm or bypass the normal temporal assessment process, leading to decisions that prioritize perceived immediate valence over broader outcome evaluation.
 
-4. **Post-outcome Reflection**: Analysis of realized outcomes and similar past experiences to learn heuristically, incrementally refining understanding and meta-awareness to improve desired outcome alignment.
+4. **Planned Outcomes**: Deliberately set goals that may be short-term or long-term, representing intended future states.
+
+5. **Post-outcome Reflections**: Analysis of realized outcomes and similar past experiences to learn heuristically, incrementally refining understanding and meta-awareness to improve desired outcome alignment.
 
 ### COO in Practice and Development
 

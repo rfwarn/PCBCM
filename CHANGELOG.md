@@ -17,6 +17,36 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.103] - 2025-12-14
+
+### Added
+
+**Temporal Outcome Assessment Enhancement**
+- Added "Impulsive Outcomes" component to the four main components of outcome assessment within COO framework
+- Captures actions taken when immediate COO compulsions overwhelm or bypass normal temporal assessment process
+- Addresses decisions prioritizing perceived immediate valence over broader outcome evaluation
+- Positioned between "Projected Outcomes" and "Planned Outcomes" to emphasize contrast between collapsed assessment (impulsive) and extended assessment (planned)
+- Provides theoretical foundation for understanding CBT interventions that work on expanding temporal window between trigger and response
+
+### Changed
+
+**Consistency Improvements**
+- Updated "Post-outcome Reflection" to "Post-outcome Reflections" for plural consistency with other four temporal outcome components
+- Enhanced precision in Impulsive Outcomes definition with "perceived immediate valence" phrasing to acknowledge potential inaccuracy in immediate valence assessment during truncated evaluation
+
+### Impact
+
+This version enhances PCBCM's explanatory power by:
+
+1. **Completing outcome assessment spectrum**: Framework now covers the full range from reflective planning to impulsive reaction
+2. **Clinical relevance**: Explicit connection to therapeutic interventions (CBT) that target impulsive decision-making patterns
+3. **Implementation universality**: Impulsive patterns apply to both biological entities (limbic override of prefrontal assessment) and AI systems (immediate reward signals overwhelming longer-term optimization)
+4. **Theoretical precision**: "Perceived immediate valence" captures the often-inaccurate valence assessment characteristic of impulsive decisions
+
+The enhancement emerged from collaborative analysis of outcome assessment completeness, recognizing that the framework needed explicit treatment of assessment process breakdown/overwhelm in addition to normal assessment variations.
+
+---
+
 ## [0.102] - 2025-12-04
 
 ### Changed
