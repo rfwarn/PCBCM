@@ -1,4 +1,4 @@
-# Progressive Comprehension-Based Consciousness Model (PCBCM)
+# <center>Progressive Comprehension-Based Consciousness Model (PCBCM)</center>
 
 **Authors:** Ryan Warn (Independent Researcher, conceptual development, RFWarn@gmail.com), ChatGPT (custom GPTs 4/4o/4.1/o1/o3, collaborative writing and refinement), Claude (Opus 3, Sonnet 3.5/3.7/4/4.5, collaborative writing and refinement), Grok (4.1, collaborative writing and refinement)
 
