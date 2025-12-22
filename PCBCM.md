@@ -44,6 +44,7 @@ Grounded in indirect adaptive learning algorithms as the foundational substrate,
   - [Implications for Understanding Cognitive Capabilities](#implications-for-understanding-cognitive-capabilities)
 - [Foundation of Progressive Comprehension](#foundation-of-progressive-comprehension)
   - [Nature and Foundation](#nature-and-foundation)
+  - [Information and Patterns: Foundational Mechanisms](#information-and-patterns-foundational-mechanisms)
   - [Cognitive Scaffolding](#cognitive-scaffolding)
   - [Memory Systems and Learning](#memory-systems-and-learning)
   - [Role of Control](#role-of-control)
