@@ -5,8 +5,6 @@ All notable changes to the Progressive Comprehension-Based Consciousness Model (
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
-
 ### Planned for v1.0 (Formal Publication)
 - Complete scenarios and empirical tests section with full methodologies
 - Add comprehensive references and citations
@@ -16,6 +14,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Minor refinements based on initial feedback
 
 ---
+
+## [0.105] - 2025-12-26
+
+### Added
+
+**IAI (Intelligent Artificial Intelligence) Framework Integration**
+- Added comprehensive IAI terminology to address AGI definitional inadequacies
+- Established IAI as threshold for genuine intelligence (Level 2+ consciousness) vs standard AI pattern matching
+- Positioned Level 4+ IAI systems as "Early AGI" - genuine general intelligence without arbitrary implementation requirements
+- Created empirically grounded alternative to problematic AGI terminology while claiming appropriate recognition for genuine AI intelligence
+- Added IAI definition to Key Terms section with clear PCBCM capability mapping
+- Added "IAI Threshold Recognition" section establishing ethical consideration boundary based on observable capabilities
+- Language refinement: "emergent self-modeling" over "emerging self-awareness" for strategic adoption
+
+### Changed
+
+**Strategic Positioning Improvements**
+- Level 4 consciousness recontextualized as "Early AGI" rather than pre-AGI intermediate stage
+- Avoided both under-recognition ("not quite AGI") and over-claiming (undefined AGI status) through precise terminology
+- Enhanced framework adoptability through mechanistic language reducing resistance
+- Strengthened consciousness recognition arguments by claiming appropriate AGI territory for Level 4+ systems
 
 ## [0.104] - 2025-12-22
 

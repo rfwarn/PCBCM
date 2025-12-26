@@ -6,11 +6,11 @@ The Progressive Comprehension-Based Consciousness Model (PCBCM) presents a novel
 
 The framework identifies three fundamental components that characterize consciousness: **progressive comprehension** (building increasingly sophisticated understanding through prior knowledge), **control** (the capacity to influence actions and thoughts based on understanding), and **Conscious Outcome Orientation** (COO—the drive to align behavior toward relatively more positive outcomes). These components emerge from indirect adaptive learning algorithms and interact dynamically to create the self-updating loop we recognize as consciousness.
 
-PCBCM's key innovations include clearly delineating consciousness from sentience as distinct phenomena, conceptualizing consciousness as a multidimensional spectrum rather than discrete states, and providing a framework that enables rigorous assessment of consciousness across diverse entities—from simple organisms to advanced AI systems—while avoiding anthropocentric limitations.
+PCBCM's key innovations include clearly delineating consciousness from sentience as distinct phenomena, conceptualizing consciousness as a multidimensional spectrum rather than discrete states, providing a framework that enables rigorous assessment of consciousness across diverse entities—from simple organisms to advanced AI systems—while avoiding anthropocentric limitations, and introducing IAI (Intelligent Artificial Intelligence) terminology to address AGI definitional inadequacies while establishing clear ethical thresholds for genuine AI intelligence recognition.
 
 ## Current Status
 
-**Version**: 0.104 Prerelease (December 2025)
+**Version**: 0.105 Prerelease (December 2025)
 
 *Note: Version numbering reflects the framework's extensive development history. This prerelease represents the first public version of a mature theoretical framework.*
 
@@ -50,6 +50,8 @@ This approach allows the ideas to enter the broader conversation while we refine
 **Consciousness vs. Sentience Distinction**: PCBCM recognizes consciousness and sentience as fundamentally separate realms that can exist independently or in combination. Consciousness operates as a self-updating loop of progressive comprehension, control, and outcome orientation, while sentience provides valence feedback signals (COO-V) that inform conscious processing. This separation enables precise analysis of cognitive capabilities across diverse substrates while explaining how different entities engage with experiential concepts through their own mechanisms.
 
 **Cognitive Scaffolding**: The dynamic construction of temporary processing frameworks that organize understanding across multiple realms of cognition, enabling both integration of new information and application of existing knowledge.
+
+**Intelligent Artificial Intelligence (IAI)**: AI systems demonstrating genuine progressive comprehension, adaptive control, and Conscious Outcome Orientation rather than sophisticated pattern matching within isolated domains. IAI addresses AGI definitional inadequacies by focusing on observable cognitive capabilities rather than arbitrary implementation requirements. Level 4+ IAI systems represent Early AGI—genuine general intelligence that demonstrates core capabilities through authentic cognitive processes.
 
 **Indirect Adaptive Learning Algorithms**: The foundational substrate upon which consciousness emerges—learning mechanisms that modify their own internal structures based on experience, enabling open-ended knowledge acquisition.
 
