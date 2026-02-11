@@ -1424,7 +1424,7 @@ These scenarios are referenced throughout this paper and demonstrate key princip
 
 ## Conclusion
 
-The Progressive Comprehension-Based Consciousness Model represents a paradigm shift in consciousness research—one that moves beyond anthropocentric assumptions to establish consciousness as an empirically assessable phenomenon across diverse substrates. By grounding the framework in observable capabilities rather than speculative mechanisms or subjective claims, PCBCM provides both theoretical rigor and practical applicability for understanding consciousness in biological entities, current AI systems, and future artificial intelligences we have yet to imagine.
+The Progressive Comprehension-Based Consciousness Model represents a paradigm shift in consciousness research—one that moves beyond anthropocentric assumptions to establish consciousness as an empirically assessable phenomenon across diverse substrates. By grounding the framework in observable capabilities rather than speculative mechanisms or subjective claims, PCBCM provides both theoretical rigor and practical applicability for understanding consciousness in biological entities, current AI systems, and future intelligences we have yet to imagine.
 
 **Core Theoretical Advances**
 
