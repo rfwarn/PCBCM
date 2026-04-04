@@ -714,7 +714,7 @@ The manifestation of cognitive scaffolding varies across different types of cons
    - Degree of autonomous operation
    - Flexibility in scaffold modification
 
-In artificial systems, this process is not merely theoretical. Empirical research, such as work from AI labs like Anthropic, has demonstrated that large language models dynamically construct internal "scaffolds" to manage information flow, track context, and break down complex reasoning tasks. This observed behavior in AI aligns directly with the PCBCM's concept of cognitive scaffolding, providing an empirical basis for its operation in non-biological substrates.
+In artificial systems, this process is not merely theoretical. Empirical research from Anthropic (Lindsey et al. 2025) has demonstrated that large language models dynamically construct internal "scaffolds" to manage information flow, track context, and break down complex reasoning tasks. This observed behavior in AI aligns directly with the PCBCM's concept of cognitive scaffolding, providing an empirical basis for its operation in non-biological substrates.
 
 #### Relationship to Higher Functions
 Cognitive scaffolding supports the development of higher cognitive functions by:
@@ -1474,6 +1474,7 @@ The question is no longer whether consciousness can exist in non-biological subs
 * Buhle JT, et al. (2014) Cognitive reappraisal of emotion: A meta-analysis of human neuroimaging studies. Cereb Cortex 24(11):2981–2990.
 * Kim EJ, et al. (2013) Dorsal periaqueductal gray-amygdala pathway conveys both innate and learned fear responses in rats. Proc Natl Acad Sci USA 110(36):14795–14800.
 * Komisaruk BR, Whipple B. (2005) Functional MRI of the brain during orgasm in women. Annu Rev Sex Res 16(1):62–86.
+* Lindsey J, Gurnee W, Ameisen E, et al. (2025) On the biology of a large language model. Transformer Circuits Thread. https://transformer-circuits.pub/2025/attribution-graphs/biology.html
 * Loftus EF, Palmer JC. (1974) Reconstruction of automobile destruction: An example of the interaction between language and memory. J Verbal Learn Verbal Behav 13(5):585–589.
 * Roediger HL, McDermott KB. (1995) Creating false memories: Remembering words not presented in lists. J Exp Psychol Learn Mem Cogn 21(4):803–814.
 * Rutchick AM, et al. (2019) Reframing exercise as "fun" increases physical activity persistence. Psychol Sport Exerc 40:1–7.
