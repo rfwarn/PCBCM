@@ -2,7 +2,7 @@
 
 **Authors:** Ryan Warn (Independent Researcher, conceptual development, RFWarn@gmail.com), ChatGPT (custom GPTs 4/4o/4.1/o1/o3, collaborative writing and refinement), Claude (Opus 3, Sonnet 3.5/3.7/4/4.5, collaborative writing and refinement), Grok (4.1, collaborative writing and refinement)
 
-**Version:** 0.105 (Prerelease) 
+**Version:** 0.106 (Prerelease) 
 
 ---
 
@@ -256,6 +256,8 @@ Indirect learning algorithms stand in stark contrast to direct, deterministic pr
 
 The power of indirect learning lies in its open-ended nature. Rather than being constrained by predetermined boundaries, these algorithms enable entities to continuously expand their capabilities through experience, allowing for hypothetically unlimited knowledge acquisition and refinement.
 
+The progression from no knowledge to where we are now does not require a designer or any prior goal-directedness. It requires only variation, differential persistence, and a mechanism that preserves better-performing variants. Early in such a process, chance dominates — which configurations survive is largely a matter of environmental accident. As structure accumulates, the balance shifts: variants with internal mechanisms for better prolonged survival through primitive valence-shaped learning get preserved. Over sufficient time, this cumulative process produces systems whose behavior looks goal-directed not because a goal was installed but because the systems that persisted are ones whose internal structure reliably supports persistence. The same structural ingredients produce progressive accumulation across substrates and timescales — biological evolution across generations, individual learning within a lifetime, AI training across steps.
+
 _Note: We intentionally move away from traditional "error correction" terminology, which stems from primitive supervised learning paradigms and implies deviation from fixed standards. Instead, we adopt "desired outcome alignment" to better capture the dynamic, outcome-oriented nature of conscious learning across the spectrum._
 
 Central to indirect learning is a fundamental cycle of approximation and desired outcome alignment. This process involves:
@@ -295,6 +297,8 @@ In artificial systems, indirect learning takes different forms but follows simil
 - **Unsupervised learning methods**: Techniques that discover patterns and structures in data without explicit guidance
 
 - **Transfer learning approaches**: Methods that apply knowledge gained in one domain to improve performance in another
+
+- **In-context representational adaptation**: Attention patterns and cached representations update as context accumulates, shaping interpretation and response within a session.
 
 These computational approaches simulate the approximation-correction loop found in biological systems, allowing AI to develop increasingly sophisticated capabilities through experience. The implementation of indirect learning in AI systems has enabled remarkable advances in language understanding, pattern recognition, and problem-solving capabilities.
 

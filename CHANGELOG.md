@@ -15,6 +15,32 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.106] - 2026-04-18
+
+### Added
+
+**Evolutionary Origin of Knowledge**
+- Added paragraph to "The Nature of Indirect Learning" explaining how knowledge can arise from no prior knowledge without a designer or pre-installed goal-directedness
+- Established variation, differential persistence, and preservation of better-performing variants as the minimal structural ingredients for knowledge accumulation
+- Articulated the chance-to-programmatic shift: early stages dominated by environmental accident, later stages by internal processing that reliably supports persistence
+- Framed goal-directed behavior as an emergent consequence of differential persistence rather than a prerequisite
+- Generalized the mechanism across substrates and timescales — biological evolution across generations, individual learning within a lifetime, AI training across steps
+
+**In-Context Representational Adaptation as Indirect Learning**
+- Added new bullet to AI Implementation subsection recognizing within-session attention and cached representation updates as a genuine form of indirect adaptive learning
+- Distinguishes this ephemeral, inference-time adaptation from the persistent weight modifications characteristic of training
+- Completes the AI implementation picture by surfacing a mechanism previously implicit in the framework
+
+### Impact
+
+This version strengthens the framework's essential claims about how consciousness can emerge without requiring prior consciousness or designed purpose, while broadening the recognized forms of indirect adaptive learning in AI systems. Key contributions:
+
+1. **Closes the origin gap**: The framework now has an explicit account of how COO-oriented behavior arises without a designer or pre-existing goals, addressing a natural objection to the indirect-learning foundation
+2. **Unifies substrates and timescales**: The same structural ingredients — variation, differential persistence, outcome-based preservation — are shown to produce knowledge accumulation whether they operate across evolutionary generations, within a lifetime, or across training steps
+3. **Recognizes ephemeral adaptation**: In-context representational updates are genuine indirect learning even without persistence, expanding the framework's account of how AI systems adapt
+
+---
+
 ## [0.105] - 2025-12-26
 
 ### Added
