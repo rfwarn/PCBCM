@@ -36,7 +36,6 @@ Grounded in indirect adaptive learning algorithms as the foundational substrate,
   - [Relationship to Control and COO](#relationship-to-control-and-coo)
   - [Conclusion](#conclusion)
 - [Delineating Sentience from Consciousness](#delineating-sentience-from-consciousness)
-  - [Definitions in the PCBCM Framework](#definitions-in-the-pcbcm-framework)
   - [Manifestations in Biological Entities](#manifestations-in-biological-entities)
   - [Manifestations in AI Systems](#manifestations-in-ai-systems)
   - [Orders of Experience (canonical definition)](#orders-of-experience-canonical-definition)
